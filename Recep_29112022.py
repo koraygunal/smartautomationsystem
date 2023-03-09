@@ -11,7 +11,7 @@ All the data will be save in a directory called "sensorNodes" in this path:
     C:/Users/{user}/Documents/sensorNodesCSV
 
 
-@author: Imanol Martín Toral
+@author: Imanol Martín Toral , Koray GÜNAL
 """
 
 from datetime import time,datetime,date,timedelta
